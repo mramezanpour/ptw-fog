@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+figures/out/
+simulator/results/*_partial.csv
+agent_probe/results/
+.DS_Store
