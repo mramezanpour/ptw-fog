@@ -1,0 +1,1 @@
+{"model": "qwen2.5_7b_react_llm", "calls": 5397, "ms_median": 1.0380229996371781, "ms_p95": 1.8455735998941225, "ms_p99": 5.361965079755464, "ms_max": 14.02978200076177, "rows_median": 42.0, "rows_p95": 55.0, "rows_max": 74, "picks_median": 42.0}

@@ -1,0 +1,4 @@
+The environment classes (*.py except env.py), the function documentation in func_doc/ and the task data in
+tasks_bfcl.json are taken from the Berkeley Function Calling Leaderboard (bfcl-eval 2026.3.23),
+https://github.com/ShishirPatil/gorilla/tree/main/berkeley-function-call-leaderboard, licensed under Apache-2.0.
+Only the import paths were changed.
