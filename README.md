@@ -1,5 +1,4 @@
-# Thinking Ahead at the Edge: Agent-Aware Pre-Warming of Per-Session Tool Sandboxes in Fog Computing
-
+# Agent-Aware Pre-Warming of Per-Session Tool Sandboxes for Large Language Model Agents in Fog Computing
 Mohammadreza Ramezanpour<sup>a,*</sup>, Reihaneh Khorsand<sup>b</sup>
 
 <sup>a</sup> Department of Computer Engineering, Mo. C., Islamic Azad University, Isfahan, Iran  
@@ -148,8 +147,7 @@ Cold-start delay, execution delay and memory of the 18 tools are listed in `TOOL
 If you use this code or the traces, please cite the paper:
 
 ```
-M. Ramezanpour and R. Khorsand, "Thinking Ahead at the Edge: Agent-Aware Pre-Warming of
-Per-Session Tool Sandboxes in Fog Computing," under review.
+M. Ramezanpour and R. Khorsand, "Agent-Aware Pre-Warming of Per-Session Tool Sandboxes for Large Language Model Agents in Fog Computing," under review.
 ```
 
 ## Contact
